@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi, I'm Onur Resen 👋
+- 🔭 I'm currently working at Sisal Şans.
+- 🌱 I’m currently learning Angular and React.
+- 🤔 I’m looking for help with Web Technologies.
+- 💬 Ask me about HTML and CSS.
+- 📫 How to reach me: onurresenyedek@gmail.com
 
+[![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurresen&theme=tokyonight&show_icons=true)](https://github.com/onurresen/github-readme-stats)
 <!--
 **onurresen/onurresen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
